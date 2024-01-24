@@ -6,8 +6,8 @@ I'm **Jireh De La Rosa, 21 years old** also known as **jcfdlr0508**, and I'm a *
 
 [![](https://img.shields.io/badge/Gmail-jireh732@gmail.com-red)](mailto:jireh732@gmail.comm)
 ### How to reach me: 
-<a href="mailto: jireh732@gmail.com">
-<img src="https://img.shields.io/badge/-jireh732@gmail.com-7B83EB?&style=for-the-badge&logo=Facebook&logoColor=white" ></a>  <a  href="https://www.facebook.com/jdrosz">   <img src="https://img.shields.io/badge/@jdrosz-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>  
+<a href="https://www.facebook.com/jdrosz">
+<img src="https://img.shields.io/badge/-jireh732@gmail.com-7B83EB?&style=for-the-badge&logo=Facebook&logoColor=white" ></a>  <a  href="https://www.instagram.com/jdrosz/">   <img src="https://img.shields.io/badge/@jdrosz-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>  
 
 ### Current Status:
 
