@@ -12,8 +12,8 @@ I'm **Jireh De La Rosa, 21 years old** also known as **jcfdlr0508**, and I'm a *
 ### Current Status:
 
 - 💼 n/a
-- 🔍 I’m looking for connections in <strong>Web Development, Progreamming and Graphics Designing</strong>
-- 💬 Feel free to discuss with me about <strong>Web Development, Progreamming, and Graphics Designing</strong>.
+- 🔍 I’m looking for connections in <strong>Web Development, Programming and Graphics Designing</strong>
+- 💬 Feel free to discuss with me about <strong>Web Development, Programming, and Graphics Designing</strong>.
 - 👀 See my [Personal Portfolio](https://jcfdlr0508.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
